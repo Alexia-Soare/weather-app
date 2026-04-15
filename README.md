@@ -22,6 +22,8 @@ git clone https://github.com/Alexia-Soare/weather-app.git
 3. Type a city name and press search
 
 ## Screenshot
-<img width="3200" height="1720" alt="image" src="https://github.com/user-attachments/assets/2986cb76-7250-42f2-b19e-1397b76fe98e" />
+<img width="3200" height="1736" alt="image" src="https://github.com/user-attachments/assets/ec8386a8-987d-41b1-984a-bcc4ecac9777" />
+
+
 
 
